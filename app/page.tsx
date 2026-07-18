@@ -4,7 +4,7 @@ export default function Home() {
   return (
          <main>
 
-      <h1>Robert Slater, PhD</h1>
+      <h1>Robert D Slater, PhD </h1> 
 
       <h2>Senior AI Scientist</h2>
 
