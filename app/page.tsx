@@ -2,15 +2,28 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-      <h1>Robert Slater</h1>
+         <main>
 
-      <h2>AI Scientist</h2>
+      <h1>Robert Slater, PhD</h1>
+
+      <h2>Senior AI Scientist</h2>
 
       <p>
-        Computer Vision • Medical Imaging • Deep Learning
+        Computer Vision
       </p>
 
       <p>
-        Building production AI systems from research to clinical deployment.
+        Medical Imaging
       </p>
+
+      <p>
+        Deep Learning
+      </p>
+
+      <button>
+        View Projects
+      </button>
+
+    </main>
+  );
 }
