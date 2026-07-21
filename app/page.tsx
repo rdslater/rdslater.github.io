@@ -3,16 +3,16 @@ import React from 'react';
 // Mock data for your AI projects - update these with your actual work!
 const projects = [
   {
-    title: "AI Agent Orchestrator",
-    description: "Built a custom multi-agent system utilizing LangChain to automate data analysis tasks.",
-    tech: ["Python", "LangChain", "OpenAI"],
-    link: "https://github.com/rdslater"
+    title: "Model Serving for Imaging Database",
+    description: "Proof of Concept to allow Flywheel to utilize external GPU resources",
+    tech: ["Python", "Flywheel", "FastAPI", "Docker"],
+    link: "https://github.com/rdslater/fw_model_serving"
   },
   {
-    title: "LLM Fine-Tuning Pipeline",
-    description: "Configured an automated pipeline to fine-tune small language models on domain-specific documentation.",
-    tech: ["PyTorch", "HuggingFace", "Docker"],
-    link: "https://github.com/rdslater"
+    title: "SMU Lecture Notebook",
+    description: "Python Notebooks used while teaching Master's Level Data Science",
+    tech: ["PyTorch", "Python", "Scikit-Learn"],
+    link: "https://github.com/rdslater/SMU"
   }
 ];
 
@@ -23,10 +23,10 @@ export default function Home() {
       {/* Hero Section */}
       <header className="max-w-4xl mx-auto pt-24 px-6 pb-16 border-b border-slate-800">
         <h1 className="text-4xl sm:text-5xl font-extrabold tracking-tight bg-gradient-to-r from-teal-400 to-blue-500 bg-clip-text text-transparent">
-          RD Slater
+          Robert D Slater
         </h1>
         <p className="mt-4 text-xl text-slate-400 max-w-2xl">
-          AI Engineer & Developer. Building intelligent systems, custom LLM integrations, and automated workflows.
+          AI Scientist & Developer. Building intelligent systems, Medical Computer Vision solutions, and automated workflows.
         </p>
         <div className="mt-6 flex gap-4">
           <a href="https://github.com/rdslater" className="px-4 py-2 bg-slate-900 border border-slate-700 rounded-lg hover:border-teal-400 transition-colors text-sm font-medium">
