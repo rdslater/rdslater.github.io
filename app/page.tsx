@@ -13,6 +13,12 @@ const projects = [
     tech: ["PyTorch", "Python", "Scikit-Learn"],
     link: "https://github.com/rdslater/SMU"
   }
+  {
+    title: "UW Presentations",
+    description: "Models I developed at the Wisconsin Reading Center",
+    tech: ["PyTorch", "Python", "Docker"],
+    link: "https://github.com/rdslater/SMU"
+  }
 ];
 
 export default function Home() {
