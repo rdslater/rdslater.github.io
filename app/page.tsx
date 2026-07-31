@@ -1,6 +1,5 @@
 import React from 'react';
 
-// Mock data for your AI projects - update these with your actual work!
 const projects = [
   {
     title: "AI Agent Orchestrator",
