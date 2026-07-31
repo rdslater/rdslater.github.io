@@ -12,7 +12,7 @@ const projects = [
     description: "Python Notebooks used while teaching Master's Level Data Science",
     tech: ["PyTorch", "Python", "Scikit-Learn"],
     link: "https://github.com/rdslater/SMU"
-  }
+  },
   {
     title: "UW Presentations",
     description: "Models I developed at the Wisconsin Reading Center",
