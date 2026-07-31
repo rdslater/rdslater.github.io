@@ -27,6 +27,9 @@ export default function Home() {
         <p className="mt-4 text-xl text-slate-400 max-w-2xl">
           AI Scientist & Developer. Building intelligent systems, Medical Computer Vision solutions, and automated workflows.
         </p>
+	<p>
+	CURRENTLY UNDER DEVELOPMENT
+	</p>
         <div className="mt-6 flex gap-4">
           <a href="https://github.com/rdslater" className="px-4 py-2 bg-slate-900 border border-slate-700 rounded-lg hover:border-teal-400 transition-colors text-sm font-medium">
             GitHub
