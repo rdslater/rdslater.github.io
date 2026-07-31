@@ -17,7 +17,7 @@ const projects = [
     title: "UW Presentations",
     description: "Models I developed at the Wisconsin Reading Center",
     tech: ["PyTorch", "Python", "Docker"],
-    link: "https://github.com/rdslater/SMU"
+    link: "https://github.com/rdslater/UW-Presentations"
   }
 ];
 
