@@ -18,6 +18,12 @@ const projects = [
     description: "Models I developed at the Wisconsin Reading Center",
     tech: ["PyTorch", "Python", "Docker"],
     link: "https://github.com/rdslater/UW-Presentations"
+  },
+  {
+	title: "LinkedIn Medical Imaging Talks",
+	description: "Ongoing articles and examples on LinkedIn",
+	tech: ["Python", "Imaging", "Teaching"],
+	link: "https://github.com/rdslater/RetinaImaging"
   }
 ];
 
