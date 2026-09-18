@@ -25,6 +25,13 @@ const projects = [
 	tech: ["Python", "Imaging", "Teaching"],
 	link: "https://github.com/rdslater/RetinaImaging"
   },
+  {
+	title: "My Git Hub",
+	description: "Not pretty but its mine",
+	tech: ["Python"],
+	link: "https://github.com/rdslater/"
+  	
+  },
 
 ];
 
