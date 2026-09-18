@@ -29,7 +29,7 @@ const projects = [
 	title: "My Git Hub",
 	description: "Not pretty but it worked at one point!",
 	tech: ["Python mostly"],
-	link: "https://github.com/rdslater/
+	link: "https://github.com/rdslater/"
   }
 ];
 
