@@ -24,6 +24,12 @@ const projects = [
 	description: "Ongoing articles and examples on LinkedIn",
 	tech: ["Python", "Imaging", "Teaching"],
 	link: "https://github.com/rdslater/RetinaImaging"
+  },
+  {
+	title: "My Git Hub",
+	description: "Not pretty but it worked at one point!",
+	tech: ["Python mostly"],
+	link: "https://github.com/rdslater/
   }
 ];
 
@@ -40,7 +46,7 @@ export default function Home() {
           AI Scientist & Developer. Building intelligent systems, Medical Computer Vision solutions, and automated workflows.
         </p>
 	<p>
-	CURRENTLY UNDER DEVELOPMENT
+	Its not much, but I'm not a bot!
 	</p>
         <div className="mt-6 flex gap-4">
           <a href="https://github.com/rdslater" className="px-4 py-2 bg-slate-900 border border-slate-700 rounded-lg hover:border-teal-400 transition-colors text-sm font-medium">
